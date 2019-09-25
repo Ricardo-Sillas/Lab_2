@@ -1,0 +1,11 @@
+for	five
+five	three
+for	for
+four	four
+three	four
+tree	for
+tree	tree
+three	three
+for	five
+four	five
+four	two
